@@ -1,0 +1,16 @@
+PODS:
+  - YZFAFNetworking (0.1.0)
+
+DEPENDENCIES:
+  - YZFAFNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  YZFAFNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YZFAFNetworking: 53080c254962eee56b297c8edc20aaacc20eed7a
+
+PODFILE CHECKSUM: 3dd73a89c87207a82e1aaf9fe5001d37fdfb980f
+
+COCOAPODS: 1.1.1

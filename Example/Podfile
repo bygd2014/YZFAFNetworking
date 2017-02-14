@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YZFAFNetworking_Example' do
+  pod 'YZFAFNetworking', :path => '../'
+
+  target 'YZFAFNetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

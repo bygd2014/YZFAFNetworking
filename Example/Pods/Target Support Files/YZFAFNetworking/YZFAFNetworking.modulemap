@@ -1,0 +1,6 @@
+framework module YZFAFNetworking {
+  umbrella header "YZFAFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
